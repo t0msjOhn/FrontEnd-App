@@ -1,1 +1,1 @@
-Tinder alike front end website for dogs
+Tinder alike Responsive front end website for dogs
